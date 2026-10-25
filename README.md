@@ -1,1 +1,1 @@
-# Lieferqualit-t-und-Kundenservice-Optimierung
+# Lieferqualität und Kundenservice Optimierung
