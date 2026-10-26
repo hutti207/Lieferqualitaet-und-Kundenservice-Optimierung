@@ -1,1 +1,8 @@
-.DS_Store
+# ALLES ignorien
+*
+
+# Ausnahmen
+!.gitignore
+!README.md
+!requirements.txt
+!projekt.ipynb
